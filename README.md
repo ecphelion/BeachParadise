@@ -1,2 +1,2 @@
-#Beaches offered
+#BeachesOffered
 Four beautiful beaches
